@@ -1,0 +1,3 @@
+[submodule "fluffychat"]
+	path = fluffychat
+	url = https://gitlab.com/famedly/fluffychat.git
